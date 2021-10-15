@@ -1,2 +1,8 @@
-# interactive-developer-clone
+# Interactive Developer Clone
 Clone of Interactive Developer's Youtube videos.
+
+# Who is Interactive Developer?
+Interactive Developer (Jongmin Kim in korean) is an international award-winning Engineer & Designer, currently works as a senior UX Engineer at Google, developing futuristic ideas and creative works.
+- [Youtube](https://www.youtube.com/channel/UCdeWxKJuvtUG2xyN6pOJEvA)
+- [Blog](https://blog.cmiscm.com/)
+- [Wikipedia](https://ko.wikipedia.org/wiki/%EA%B9%80%EC%A2%85%EB%AF%BC_(%EC%9D%B8%ED%84%B0%EB%9E%99%ED%8B%B0%EB%B8%8C_%EB%94%94%EB%B2%A8%EB%A1%9C%ED%8D%BC))
