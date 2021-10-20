@@ -12,4 +12,5 @@ Interactive Developer (Jongmin Kim in korean) is an international award-winning 
 
 # Live Demo
 
-[Sheep](https://zeikar.github.io/interactive-developer-clone/sheep)
+- [Sheep](https://zeikar.github.io/interactive-developer-clone/sheep)
+- [Strings](https://zeikar.github.io/interactive-developer-clone/strings)
