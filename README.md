@@ -12,9 +12,9 @@ Interactive Developer (Jongmin Kim in korean) is an international award-winning 
 
 # Live Demo
 
-- [Gradient](https://zeikar.github.io/interactive-developer-clone/gradient/)
-- [Ripple](https://zeikar.github.io/interactive-developer-clone/ripple/)
+- [Moving Gradient with JavaScript](https://zeikar.github.io/interactive-developer-clone/gradient/)
+- [Get pixel color and create a ripple effect with JavaScript](https://zeikar.github.io/interactive-developer-clone/ripple/)
 - [Sheep](https://zeikar.github.io/interactive-developer-clone/sheep/)
-- [Strings](https://zeikar.github.io/interactive-developer-clone/strings/)
-- [Swing](https://zeikar.github.io/interactive-developer-clone/swing/)
-- [Typography 1](https://zeikar.github.io/interactive-developer-clone/typography-1/)
+- [Pluck strings effect with JavaScript](https://zeikar.github.io/interactive-developer-clone/strings/)
+- [Swing effect with JavaScript](https://zeikar.github.io/interactive-developer-clone/swing/)
+- [Kinetic Typography #1](https://zeikar.github.io/interactive-developer-clone/typography-1/)
