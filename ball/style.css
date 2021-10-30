@@ -15,6 +15,7 @@ body {
   height: 100%;
   overflow: hidden;
   background-color: #161e38;
+  touch-action: none;
 }
 
 canvas {

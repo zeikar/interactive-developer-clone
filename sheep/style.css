@@ -14,6 +14,7 @@ body {
   height: 100%;
   overflow: hidden;
   background-color: #ffcaec;
+  touch-action: none;
 }
 
 canvas {
