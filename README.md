@@ -23,4 +23,5 @@ Interactive Developer (Jongmin Kim in korean) is an international award-winning 
 - [Kinetic Typography #2](https://zeikar.github.io/interactive-developer-clone/typography-2/)
 - [Kinetic Typography #3](https://zeikar.github.io/interactive-developer-clone/typography-3/)
 - [Kinetic Typography #4](https://zeikar.github.io/interactive-developer-clone/typography-4/)
+- [Kinetic Typography #5](https://zeikar.github.io/interactive-developer-clone/typography-5/)
 - [Moving wave with JavaScript](https://zeikar.github.io/interactive-developer-clone/wave/)
