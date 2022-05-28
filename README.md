@@ -30,4 +30,4 @@ Interactive Developer (Jongmin Kim in korean) is an international award-winning 
 
 # Github
 
-https://github.com/zeikar/interactive-developer-clone
+[https://github.com/zeikar/interactive-developer-clone](https://github.com/zeikar/interactive-developer-clone)
